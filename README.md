@@ -1,5 +1,7 @@
 ## Hello there 👋
 
+![alt text](img.png)
+
 My name is Christian Kenji Ollhoff. I am a former psychologist and hold a Master's degree in Experimental Psychology (University of São Paulo) with a focus on Evolutionary Psychology 🐒.
 
 I started showing an interest in statistics during my graduation and improved my skills in my master's, creating a love for Data Science 👨‍💻.
