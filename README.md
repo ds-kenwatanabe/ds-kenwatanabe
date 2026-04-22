@@ -1,6 +1,6 @@
 ## Hello there 👋
 
-![alt text](img.png)
+![alt text](image.png)
 
 My name is Christian Kenji Ollhoff. I am a former researcher and hold a Master's degree (University of São Paulo).
 
